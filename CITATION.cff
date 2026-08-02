@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite both the associated article and this software."
+title: "Code for Predicting Olympic Medal Outcomes in 1,011 Elite Athletes Using Multimodal Machine Learning"
+type: software
+
+authors:
+  - family-names: "Choi"
+    given-names: "Hyoungjoo"
+
+repository-code: "https://github.com/hjchoipt-byte/olympic-medal-outcome-ml"
+
+version: "1.0.0"
+
+date-released: "2026-08-02"
+
+abstract: >
+  Public reproducibility code accompanying the manuscript
+  "Predicting Olympic medal outcomes in 1,011 elite athletes using
+  multimodal machine learning". The repository contains the complete
+  analysis workflow, including data preprocessing, feature selection,
+  SHAP analyses, nested cross-validation, and supplementary analyses.
+
+license: MIT
+
+keywords:
+  - machine learning
+  - sports medicine
+  - Olympic
+  - elite athletes
+  - CatBoost
+  - XGBoost
+  - LightGBM
+  - SHAP
+  - nested cross-validation
